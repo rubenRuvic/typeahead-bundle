@@ -1,5 +1,5 @@
 {
-    "name": "rubenRuvic/typeahead-bundle",
+    "name": "ruben-ruvic/typeahead-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle that provides an autocomplete Typeahead form type compatible with Bootstrap v2|v3",
     "keywords": ["symfony","typeahead","autocomplete","bootstrap"],
