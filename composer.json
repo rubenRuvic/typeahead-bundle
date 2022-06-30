@@ -1,5 +1,5 @@
 {
-    "name": "lifo/typeahead-bundle",
+    "name": "rubenRuvic/typeahead-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle that provides an autocomplete Typeahead form type compatible with Bootstrap v2|v3",
     "keywords": ["symfony","typeahead","autocomplete","bootstrap"],
@@ -17,7 +17,7 @@
         "mopa/bootstrap-bundle": "Bundle to automatically enable Bootstrap styles for Symfony"
     },
     "autoload": {
-        "psr-0": { "Lifo\\TypeaheadBundle": "" }
+        "psr-0": { "RubenRuvic\\TypeaheadBundle": "" }
     },
-    "target-dir": "Lifo/TypeaheadBundle"
+    "target-dir": "RubenRuvic/TypeaheadBundle"
 }
