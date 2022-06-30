@@ -6,7 +6,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jason Morriss",
+            "name": "Rubén Cáceres",
+            "email": "ruben@ruvic.es"
+        }
+    ],
+    "contributors" : [
+        {
+            "name": "Jason Morriss (Original package)",
             "email": "lifo2013@gmail.com"
         }
     ],
@@ -17,7 +23,7 @@
         "mopa/bootstrap-bundle": "Bundle to automatically enable Bootstrap styles for Symfony"
     },
     "autoload": {
-        "psr-0": { "RubenRuvic\\TypeaheadBundle": "" }
+        "psr-0": { "Lifo\\TypeaheadBundle": "" }
     },
-    "target-dir": "RubenRuvic/TypeaheadBundle"
+    "target-dir": "Lifo/TypeaheadBundle"
 }
